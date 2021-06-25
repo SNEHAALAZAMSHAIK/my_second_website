@@ -67,6 +67,9 @@ a{
 a:hover{
     color: #EAF6F6;
 }
+.svnit{
+    color:#66BFBF;
+}
 .stock{
     width: 15%;
     float: left;
